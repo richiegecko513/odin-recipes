@@ -1,0 +1,61 @@
+body
+{
+    background-color:  #cc9966
+    ;
+}
+
+.foodimg
+{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1
+{
+    color: #4a2926 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.nav
+{
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    font-size: 25px;
+}
+
+a:link
+{
+    color: #3A6B35;
+    font-style: oblique;
+}
+
+a:visited
+{
+    color: #386732;
+}
+
+a:hover
+{
+    color: #8dc487;
+    font-style: oblique;
+}
+
+.recipe
+{
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    font-size: 25px;
+}
+
+.recipe, p
+{
+    color: #8B4513;
+}
